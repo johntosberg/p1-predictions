@@ -1,0 +1,7 @@
+.env
+node_modules/
+.next/
+frontend/node_modules/
+frontend/.next/
+.idea/
+*.DS_Store
